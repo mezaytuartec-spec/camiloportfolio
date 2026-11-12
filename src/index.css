@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter Tight", "Helvetica Neue", Arial, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+
+html, body { overflow-anchor: none; }
+html { background: #0c0c0b; scroll-behavior: smooth; }
+body { margin: 0; font-family: var(--font-sans); background: #0c0c0b; color: #e9e4da; -webkit-font-smoothing: antialiased; }
+::selection { background: #e9e4da; color: #0c0c0b; }
+
+/* Mobile fixes for the hero footer-style header */
+@media (max-width: 720px) {
+  .hwf-root .hwf-top { font-size: 9.5px; letter-spacing: 0.12em; }
+  .hwf-root .hwf-brand { padding-right: 112px; }
+  .hwf-root .hwf-col a { overflow-wrap: anywhere; }
+}

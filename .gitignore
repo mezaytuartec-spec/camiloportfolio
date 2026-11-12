@@ -1,0 +1,7 @@
+node_modules
+dist
+.claude
+animations
+*.local
+*.tsbuildinfo
+mico-launch-30s-web.mp4
