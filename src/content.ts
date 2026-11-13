@@ -44,6 +44,17 @@ export const content: Record<Lang, {
         ],
         credit: "Concept and direction: Camilo Meza Ytuarte. Built in code at 60 fps with Remotion, AI-assisted. Delivered in 16:9, with 9:16 and 1:1 cutdowns.",
       },
+      {
+        id: "palette",
+        name: "Palette",
+        video: "/videos/palette.mp4",
+        disclaimer: "Independent concept piece, not commissioned by or affiliated with Palette. Fictional company and names, illustrative data.",
+        paragraphs: [
+          "Palette lets whole teams work with AI agents like Claude Code, Codex or Gemini on the folders they already share, and review the changes before saving them. Its value is not in what an agent does, but in what happens between people, and that does not show up in a screenshot. The goal was to show in 30 seconds why it is not enough for everyone to work with their own agent on their own. The film targets product, marketing and operations teams that started using AI one person at a time.",
+          "The film opens on something the viewer has already lived: four teammates, each with their own agent, and copies of the same brief multiplying until a counter hits seven versions of the truth. On the music drop everything collapses into a single folder that becomes the app, so the product arrives as the place where that mess gets ordered. The visual thread is construction: cards born from a single line, a window assembled in layers, files traveling toward the shared folder and a logo whose letters emerge from behind the icon. The review before saving, the product’s most concrete differentiator, gets its own scene. Palette’s orange appears only on what is new, over the warm palette of its site, and the edit follows the pulse of the song. Before the close, instead of cutting the music, a filter muffles it and it opens back up with the logo.",
+        ],
+        credit: "Concept and direction: Camilo Meza Ytuarte. Built in code at 60 fps with Remotion, AI-assisted. Voice-over and sound effects with ElevenLabs. Delivered in 16:9, with 9:16 and 1:1 cutdowns.",
+      },
     ],
     cta: {
       title: "Request yours.",
@@ -77,6 +88,17 @@ export const content: Record<Lang, {
           "El diferenciador se dramatiza: la escena del problema muestra el momento incómodo en que un bot de notas pide entrar, y la escena del producto responde con “nadie entra a la llamada”. Un solo número carga la historia, un contador de compromisos sin responsable que sube al inicio y vuelve a cero en el remate, así el valor se lee como un cambio en algo que el espectador ya entendía. La conversación en bruto se ordena en pantalla en decisiones y compromisos con responsables, de modo que el resultado se ve, no se describe. El texto en pantalla está en español porque el producto es español primero, y el look sale de la propia identidad de Mico (papel cálido, acento violeta, toques dibujados a mano), evitando a propósito el default oscuro y técnico de la mayoría de los lanzamientos SaaS. La cámara se mantiene cerca del detalle que importa, para que el video funcione en formatos vertical y cuadrado.",
         ],
         credit: "Concepto y dirección: Camilo Meza Ytuarte. Construido en código a 60 fps con Remotion, asistido por IA. Entregado en 16:9, con versiones 9:16 y 1:1.",
+      },
+      {
+        id: "palette",
+        name: "Palette",
+        video: "/videos/palette.mp4",
+        disclaimer: "Pieza conceptual independiente, no encargada por ni afiliada a Palette. Empresa y nombres ficticios, datos ilustrativos.",
+        paragraphs: [
+          "Palette permite que equipos enteros trabajen con agentes de IA como Claude Code, Codex o Gemini sobre las carpetas que ya comparten, y revisen los cambios antes de guardarlos. Su valor no está en lo que hace un agente, sino en lo que pasa entre personas, y eso no aparece en una captura de pantalla. El objetivo era mostrar en 30 segundos por qué no alcanza con que cada uno trabaje con su agente por su lado. El video apunta a equipos de producto, marketing y operaciones que empezaron a usar IA de a una persona a la vez.",
+          "El video arranca con algo que el espectador ya vivió: cuatro compañeros, cada uno con su propio agente, y copias del mismo brief que se multiplican hasta que un contador marca siete versiones de la verdad. En el drop de la música todo colapsa en una sola carpeta que se convierte en la app, así el producto llega como el lugar donde ese desorden se ordena. El hilo visual es la construcción: tarjetas que nacen de una línea, una ventana que se arma por capas, archivos que viajan hacia la carpeta compartida y un logo cuyas letras salen de detrás del ícono. La revisión antes de guardar, el diferenciador más concreto del producto, tiene su propia escena. El naranja de Palette aparece solo en lo nuevo, sobre la paleta cálida de su sitio, y el montaje sigue el pulso de la canción. Antes del cierre, en lugar de cortarla, un filtro la apaga y la abre de golpe con el logo.",
+        ],
+        credit: "Concepto y dirección: Camilo Meza Ytuarte. Construido en código a 60 fps con Remotion, asistido por IA. Voz en off y efectos con ElevenLabs. Entregado en 16:9, con versiones 9:16 y 1:1.",
       },
     ],
     cta: {

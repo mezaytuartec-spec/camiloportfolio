@@ -4,13 +4,15 @@ import { content, EMAIL, type Lang } from "./content"
 
 const mono = "font-mono uppercase tracking-[0.18em] text-[11px]"
 
-const POSTERS: Record<string, string> = { peec: "/posters/peec.png", mico: "/posters/mico.webp" }
+const POSTERS: Record<string, string> = { peec: "/posters/peec.png", mico: "/posters/mico.webp", palette: "/posters/palette.png" }
 
 // Phrases set in bold, per language + project.
 const BOLD: Record<string, string[]> = {
   "en-peec": ["make that visibility tangible", "starts from the buyer, not the product", "a number that counts up and a ranking that reorders", "a single accent color appears only when the numbers improve", "live vector components"],
   "es-peec": ["hacer tangible esa visibilidad", "parte del comprador, no del producto", "un número que sube y un ranking que se reordena", "un único color de acento aparece solo cuando los números mejoran", "componentes vectoriales vivos"],
   "en-mico": ["without a bot joining the call", "“nobody joins the call”", "One number carries the story", "decisions and commitments with owners", "Spanish-first", "vertical and square formats"],
+  "en-palette": ["what happens between people", "seven versions of the truth", "a single folder that becomes the app", "The review before saving", "Palette’s orange appears only on what is new"],
+  "es-palette": ["lo que pasa entre personas", "siete versiones de la verdad", "una sola carpeta que se convierte en la app", "La revisión antes de guardar", "El naranja de Palette aparece solo en lo nuevo"],
   "es-mico": ["sin que un bot entre a la llamada", "“nadie entra a la llamada”", "Un solo número carga la historia", "decisiones y compromisos con responsables", "español primero", "vertical y cuadrado"],
 }
 
